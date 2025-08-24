@@ -11,3 +11,6 @@ The final project of the class will focus on the end-to-end development of an an
 
 ### Key Details:
 - The key objective of this project was to analyze the trends of COVID-19 cases, deaths, and other related issues. For this project, I was able to focus specifically on the ACS Social, Economic, and Housing dataset that was given to us. Throughout the project, I was also able to focus on the state of Florida and truly analyze all of the effects that COVID-19 had. As for my selection of my country for stage IV, I was able to work with the country Germany.
+
+### Technologies and Datasets Used: 
+- COVID-19 Dataset: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/ 
