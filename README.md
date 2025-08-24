@@ -17,4 +17,4 @@ The final project of the class will focus on the end-to-end development of an an
 - ACS Social, Economic, and Housing Dataset: https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05
 - Jupyter Notebook, Pandas, NumPy, Matplotlib, Plotly, Scikit-learn
 
-# All work can be found in folders.
+### All work can be found in folders.
